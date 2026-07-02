@@ -69,24 +69,6 @@ skills/
         └── README.md                  # 技能详细说明
 ```
 
----
-
-## 🧩 什么是 AgentSkills？
-
-一个技能（Skill）本质上是一套结构化的指令集，让 AI Agent 掌握特定领域的完整工作流：
-
-- **`SKILL.md`** — 技能的入口文件，定义触发条件、工具映射和执行步骤
-- **`prompts/`** — 分步指令，Agent 每步 `Read` 对应文件后执行
-- **`tools/`** — 可执行的辅助脚本，扩展 Agent 能力边界
-- **`references/`** — 参考文档和示例，辅助 Agent 理解领域知识
-
----
-
-## 🤝 贡献
-
-欢迎提交 PR 贡献新技能或改进现有技能！
-
----
 
 <div align="center">
 
